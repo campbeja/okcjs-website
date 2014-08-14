@@ -309,7 +309,7 @@ body {
   font-weight: bold;
 }
 #header {
-  height: 300px;
+  height: 250px;
   position: relative;
   border-bottom: 1px solid #ddd;
 }
@@ -345,23 +345,38 @@ body {
 }
 #banner {
   position: absolute;
+  background: #666;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background: url("images/banner.jpg") center #000;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   z-index: -1;
 }
 #header-title {
-  text-align: center;
-  height: 40px;
+  text-align: left;
+  height: 100px;
   position: absolute;
-  top: 50%;
+  top: 105px;
   left: 0;
-  margin-top: -20px;
+  margin-top: -50px;
+}
+.header-title-text {
+  display: block;
+  float: left;
+  margin-left: 10px;
+}
+.header-title-graphic {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  display: block;
+  float: left;
+  width: 300px;
+  height: 150px;
+  background: url("images/okcjs-header-logo.png") center transparent;
 }
 #logo,
 #subtitle {
@@ -371,17 +386,17 @@ body {
   text-shadow: 0 1px 4px rgba(0,0,0,0.3);
 }
 #logo {
-  font-size: 40px;
-  line-height: 40px;
+  font-size: 100px;
+  line-height: 100px;
   letter-spacing: 2px;
 }
 #subtitle {
-  font-size: 16px;
-  line-height: 16px;
+  font-size: 24px;
+  line-height: 24px;
   letter-spacing: 1px;
 }
 #subtitle-wrap {
-  margin-top: 16px;
+  margin-top: 24px;
 }
 #main-nav {
   float: left;
