@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://techlahoma.github.io/okcjs-website/sponsors/index.html</loc>
+    <lastmod>2014-08-14T16:51:07.000Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://techlahoma.github.io/okcjs-website/about/index.html</loc>
+    <lastmod>2014-08-14T16:32:58.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://techlahoma.github.io/okcjs-website/2012/02/14/2012-02-14-meeting-feb-21-node-dot-js-and-socket-dot-io/</loc>
     <lastmod>2014-08-14T14:56:18.000Z</lastmod>
   </url>
@@ -154,16 +164,6 @@
   <url>
     <loc>http://techlahoma.github.io/okcjs-website/2012/01/03/2012-01-03-first-meeting-january-2012/</loc>
     <lastmod>2014-08-14T12:56:06.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://techlahoma.github.io/okcjs-website/code-of-conduct/index.html</loc>
-    <lastmod>2014-08-13T08:23:13.000Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://techlahoma.github.io/okcjs-website/code-of-conduct/index.html</loc>
-    <lastmod>2014-08-13T08:23:13.000Z</lastmod>
   </url>
   
   <url>
