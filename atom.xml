@@ -4,7 +4,7 @@
   <subtitle><![CDATA[The Oklahoma City Javascript Usergroup]]></subtitle>
   <link href="/okcjs-website/atom.xml" rel="self"/>
   <link href="http://techlahoma.github.io/okcjs-website/"/>
-  <updated>2014-08-14T14:41:46.578Z</updated>
+  <updated>2014-08-14T14:55:15.993Z</updated>
   <id>http://techlahoma.github.io/okcjs-website/</id>
   
   <author>
@@ -1016,11 +1016,10 @@
     <link href="http://techlahoma.github.io/okcjs-website/2013/01/22/2013-1-22-january-meeting-ecmafox/"/>
     <id>http://techlahoma.github.io/okcjs-website/2013/01/22/2013-1-22-january-meeting-ecmafox/</id>
     <published>2013-01-22T18:44:00.000Z</published>
-    <updated>2014-08-14T14:24:18.000Z</updated>
-    <content type="html"><![CDATA[<img src="/images/posters/2013-january-22-ecmafox.jpg" width="700" title="Ecmafox">
+    <updated>2014-08-14T14:42:36.000Z</updated>
+    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-january-22-ecmafox.jpg" height="700" title="More like Wrekt-maScriptht?" alt="Ecmascript with Yury Delendik">
 
 
-<p>{% img  /okcjs-website/images/posters/2013-january-22-ecmafox.jpg  700 “More like Wrekt-maFox, right?” “Ecmascript with Yury Delendik</p>
 <h2 id="This_Month">This Month</h2>
 <p>Meeting January 22, 2013 @The Exchange</p>
 <h3 id="Ecmafox-">Ecmafox.</h3>
@@ -1038,10 +1037,9 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/images/posters/2013-january-22-ecmafox.jpg" width="700" title="Ecmafox">
+    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-january-22-ecmafox.jpg" height="700" title="More like Wrekt-maScriptht?" alt="Ecmascript with Yury Delendik">
 
 
-<p>{% img  /okcjs-website/images/posters/2013-january-22-ecmafox.jpg  700 “More like Wrekt-maFox, right?” “Ecmascript with Yury Delendik</p>
 <h2 id="This_Month">This Month</h2>
 <p>Meeting January 22, 2013 @The Exchange</p>
 <h3 id="Ecmafox-">Ecmafox.</h3>
