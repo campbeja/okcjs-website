@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[OKC.js]]></title>
   <subtitle><![CDATA[The Oklahoma City Javascript Usergroup]]></subtitle>
-  <link href="/okcjs-website/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   <link href="http://techlahoma.github.io/okcjs-website/"/>
-  <updated>2014-08-14T17:06:07.399Z</updated>
+  <updated>2014-08-14T17:30:59.865Z</updated>
   <id>http://techlahoma.github.io/okcjs-website/</id>
   
   <author>
