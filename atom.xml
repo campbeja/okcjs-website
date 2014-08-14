@@ -3,9 +3,9 @@
   <title><![CDATA[OKC.js]]></title>
   <subtitle><![CDATA[The Oklahoma City Javascript Usergroup]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://techlahoma.github.io/okcjs-website/"/>
-  <updated>2014-08-14T17:30:59.865Z</updated>
-  <id>http://techlahoma.github.io/okcjs-website/</id>
+  <link href="www.okcjs.com/"/>
+  <updated>2014-08-14T17:38:13.041Z</updated>
+  <id>www.okcjs.com/</id>
   
   <author>
     <name><![CDATA[Jesse Harlin,Amanda Harlin,Vance Lucas]]></name>
@@ -16,11 +16,11 @@
   
   <entry>
     <title><![CDATA[Meeting: August 19 - Lightning Talks 6]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2014/08/19/2014-8-19-lightning-talks-6/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2014/08/19/2014-8-19-lightning-talks-6/</id>
+    <link href="www.okcjs.com/2014/08/19/2014-8-19-lightning-talks-6/"/>
+    <id>www.okcjs.com/2014/08/19/2014-8-19-lightning-talks-6/</id>
     <published>2014-08-19T16:30:00.000Z</published>
-    <updated>2014-08-14T14:11:03.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2014-august-lightning-6.png" width="700" title="Lightning Talks 6" alt="Lightning Talks 6">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2014-august-lightning-6.png" width="700" title="Lightning Talks 6" alt="Lightning Talks 6">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: August 19, 2014</p>
@@ -52,11 +52,11 @@
 <p>These awesome folks serve the Oklahoma City tech job market and we thank them for their support since 2012!</p>
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2>
 <p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
-<p><img src="/okcjs-website/images/sponsors/prototek.png" alt="Prototek OKC"></p>
+<p><img src="/images/sponsors/prototek.png" alt="Prototek OKC"></p>
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
 <p>Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415" target="_blank" rel="external">Google maps</a>.</p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2014-august-lightning-6.png" width="700" title="Lightning Talks 6" alt="Lightning Talks 6">
+    <summary type="html"><![CDATA[<img src="/images/posters/2014-august-lightning-6.png" width="700" title="Lightning Talks 6" alt="Lightning Talks 6">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: August 19, 2014</p>
@@ -68,27 +68,27 @@
 <p>We run a signup on the Google G+ community for OKC.js.  Generally? Be sure and sign up early; they fill up quickly</p>
 ]]></summary>
     
-      <category term="Lightning Talks" scheme="http://techlahoma.github.io/okcjs-website/tags/Lightning-Talks/"/>
+      <category term="Lightning Talks" scheme="www.okcjs.com/tags/Lightning-Talks/"/>
     
-      <category term="Rick Yoesting" scheme="http://techlahoma.github.io/okcjs-website/tags/Rick-Yoesting/"/>
+      <category term="Rick Yoesting" scheme="www.okcjs.com/tags/Rick-Yoesting/"/>
     
-      <category term="Caleb Creed" scheme="http://techlahoma.github.io/okcjs-website/tags/Caleb-Creed/"/>
+      <category term="Caleb Creed" scheme="www.okcjs.com/tags/Caleb-Creed/"/>
     
-      <category term="Phillip Sipe" scheme="http://techlahoma.github.io/okcjs-website/tags/Phillip-Sipe/"/>
+      <category term="Phillip Sipe" scheme="www.okcjs.com/tags/Phillip-Sipe/"/>
     
-      <category term="Karl Kirch" scheme="http://techlahoma.github.io/okcjs-website/tags/Karl-Kirch/"/>
+      <category term="Karl Kirch" scheme="www.okcjs.com/tags/Karl-Kirch/"/>
     
-      <category term="Lightning Talks" scheme="http://techlahoma.github.io/okcjs-website/categories/Lightning-Talks/"/>
+      <category term="Lightning Talks" scheme="www.okcjs.com/categories/Lightning-Talks/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: July 15 - The Event Loop]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2014/07/15/2014-7-15-the-event-loop/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2014/07/15/2014-7-15-the-event-loop/</id>
+    <link href="www.okcjs.com/2014/07/15/2014-7-15-the-event-loop/"/>
+    <id>www.okcjs.com/2014/07/15/2014-7-15-the-event-loop/</id>
     <published>2014-07-15T16:30:00.000Z</published>
-    <updated>2014-08-14T14:11:32.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2014-july-eventloop.png" width="700" title="My favorite anagram: Loop Pool" alt="The Event Loop with Karl Kirch">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2014-july-eventloop.png" width="700" title="My favorite anagram: Loop Pool" alt="The Event Loop with Karl Kirch">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: July 15, 2014</p>
@@ -107,12 +107,12 @@
 <p>These awesome folks serve the Oklahoma City tech job market and we thank them for their support since 2012!</p>
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2>
 <p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
-<img src="/okcjs-website/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
+<img src="/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
 
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
 <p>Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415" target="_blank" rel="external">Google maps</a>.</p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2014-july-eventloop.png" width="700" title="My favorite anagram: Loop Pool" alt="The Event Loop with Karl Kirch">
+    <summary type="html"><![CDATA[<img src="/images/posters/2014-july-eventloop.png" width="700" title="My favorite anagram: Loop Pool" alt="The Event Loop with Karl Kirch">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: July 15, 2014</p>
@@ -123,23 +123,23 @@
 <p>Have you ever wondered how Javascript works? Why synchronous calls are bad? What really happens when you use callbacks, call setTimeout, or make an ajax or database call? Is Javascript really single threaded?<br>The answer to all these questions and more can be found at the heart of every browser and Node.js. The Event Loop.</p>
 ]]></summary>
     
-      <category term="Event Loop" scheme="http://techlahoma.github.io/okcjs-website/tags/Event-Loop/"/>
+      <category term="Event Loop" scheme="www.okcjs.com/tags/Event-Loop/"/>
     
-      <category term="callbacks" scheme="http://techlahoma.github.io/okcjs-website/tags/callbacks/"/>
+      <category term="callbacks" scheme="www.okcjs.com/tags/callbacks/"/>
     
-      <category term="event que" scheme="http://techlahoma.github.io/okcjs-website/tags/event-que/"/>
+      <category term="event que" scheme="www.okcjs.com/tags/event-que/"/>
     
-      <category term="Karl Kirch" scheme="http://techlahoma.github.io/okcjs-website/tags/Karl-Kirch/"/>
+      <category term="Karl Kirch" scheme="www.okcjs.com/tags/Karl-Kirch/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: June 17 - Taskrunner Showdown]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2014/06/17/2014-6-17-task-runner-showdown/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2014/06/17/2014-6-17-task-runner-showdown/</id>
+    <link href="www.okcjs.com/2014/06/17/2014-6-17-task-runner-showdown/"/>
+    <id>www.okcjs.com/2014/06/17/2014-6-17-task-runner-showdown/</id>
     <published>2014-06-17T16:30:00.000Z</published>
-    <updated>2014-08-14T14:11:49.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2014-june-taskrunner-showdown.png" width="700" title="Get your running shoes on" alt="Task Runner Showdown with Josh Bavahari">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2014-june-taskrunner-showdown.png" width="700" title="Get your running shoes on" alt="Task Runner Showdown with Josh Bavahari">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: June 17, 2014</p>
@@ -156,12 +156,12 @@
 <p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/" target="_blank" rel="external">Robert Half Technologies</a>. These awesome folks serve the Oklahoma City tech job market and we thank them for their lunch support since 2012!</p>
 <h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2>
 <p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
-<img src="/okcjs-website/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
+<img src="/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
 
 <p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
 <p>Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415" target="_blank" rel="external">Google maps</a>.</p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2014-june-taskrunner-showdown.png" width="700" title="Get your running shoes on" alt="Task Runner Showdown with Josh Bavahari">
+    <summary type="html"><![CDATA[<img src="/images/posters/2014-june-taskrunner-showdown.png" width="700" title="Get your running shoes on" alt="Task Runner Showdown with Josh Bavahari">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: June 17, 2014</p>
@@ -170,23 +170,23 @@
 <h2 id="About_“Ultimate_Taskrunner_Showdown”">About “Ultimate Taskrunner Showdown”</h2>
 ]]></summary>
     
-      <category term="Gulp" scheme="http://techlahoma.github.io/okcjs-website/tags/Gulp/"/>
+      <category term="Gulp" scheme="www.okcjs.com/tags/Gulp/"/>
     
-      <category term="Grunt" scheme="http://techlahoma.github.io/okcjs-website/tags/Grunt/"/>
+      <category term="Grunt" scheme="www.okcjs.com/tags/Grunt/"/>
     
-      <category term="Brunch Brocolli" scheme="http://techlahoma.github.io/okcjs-website/tags/Brunch-Brocolli/"/>
+      <category term="Brunch Brocolli" scheme="www.okcjs.com/tags/Brunch-Brocolli/"/>
     
-      <category term="Josh Bavahari" scheme="http://techlahoma.github.io/okcjs-website/tags/Josh-Bavahari/"/>
+      <category term="Josh Bavahari" scheme="www.okcjs.com/tags/Josh-Bavahari/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: May 20 - Lightning Talks V]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2014/05/20/2014-5-20-may-lightningtalks/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2014/05/20/2014-5-20-may-lightningtalks/</id>
+    <link href="www.okcjs.com/2014/05/20/2014-5-20-may-lightningtalks/"/>
+    <id>www.okcjs.com/2014/05/20/2014-5-20-may-lightningtalks/</id>
     <published>2014-05-20T16:30:00.000Z</published>
-    <updated>2014-08-14T14:12:00.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2014-may-lightning-5.jpg" width="700" title="Zzzt" alt="Lightning Talks V">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2014-may-lightning-5.jpg" width="700" title="Zzzt" alt="Lightning Talks V">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: May 20, 2013 </p>
@@ -220,7 +220,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2014-may-lightning-5.jpg" width="700" title="Zzzt" alt="Lightning Talks V">
+    <summary type="html"><![CDATA[<img src="/images/posters/2014-may-lightning-5.jpg" width="700" title="Zzzt" alt="Lightning Talks V">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: May 20, 2013 </p>
@@ -241,27 +241,27 @@
 </ul>
 ]]></summary>
     
-      <category term="Lightning Talks" scheme="http://techlahoma.github.io/okcjs-website/tags/Lightning-Talks/"/>
+      <category term="Lightning Talks" scheme="www.okcjs.com/tags/Lightning-Talks/"/>
     
-      <category term="Karl Kirch" scheme="http://techlahoma.github.io/okcjs-website/tags/Karl-Kirch/"/>
+      <category term="Karl Kirch" scheme="www.okcjs.com/tags/Karl-Kirch/"/>
     
-      <category term="Rick Yoesting" scheme="http://techlahoma.github.io/okcjs-website/tags/Rick-Yoesting/"/>
+      <category term="Rick Yoesting" scheme="www.okcjs.com/tags/Rick-Yoesting/"/>
     
-      <category term="Shane King" scheme="http://techlahoma.github.io/okcjs-website/tags/Shane-King/"/>
+      <category term="Shane King" scheme="www.okcjs.com/tags/Shane-King/"/>
     
-      <category term="Rob Sullivan" scheme="http://techlahoma.github.io/okcjs-website/tags/Rob-Sullivan/"/>
+      <category term="Rob Sullivan" scheme="www.okcjs.com/tags/Rob-Sullivan/"/>
     
-      <category term="Lightning Talks" scheme="http://techlahoma.github.io/okcjs-website/categories/Lightning-Talks/"/>
+      <category term="Lightning Talks" scheme="www.okcjs.com/categories/Lightning-Talks/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: April 15 - Featherweight Development in Node.js]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2014/04/15/2014-4-15-apr-node/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2014/04/15/2014-4-15-apr-node/</id>
+    <link href="www.okcjs.com/2014/04/15/2014-4-15-apr-node/"/>
+    <id>www.okcjs.com/2014/04/15/2014-4-15-apr-node/</id>
     <published>2014-04-15T16:30:00.000Z</published>
-    <updated>2014-08-14T14:12:26.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2014-april-featherweight.png" width="700" title="light as a feather, stiff as a..." alt="Featherweight Node with Waylon Flynn">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2014-april-featherweight.png" width="700" title="light as a feather, stiff as a..." alt="Featherweight Node with Waylon Flynn">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: April 15, 2014 </p>
@@ -281,7 +281,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2014-april-featherweight.png" width="700" title="light as a feather, stiff as a..." alt="Featherweight Node with Waylon Flynn">
+    <summary type="html"><![CDATA[<img src="/images/posters/2014-april-featherweight.png" width="700" title="light as a feather, stiff as a..." alt="Featherweight Node with Waylon Flynn">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: April 15, 2014 </p>
@@ -290,19 +290,19 @@
 <h2 id="“Featherweight_Web_Development_with_Node-js”">“Featherweight Web Development with Node.js”</h2>
 <p>Does your framework ever feel like a straitjacket? Would you rather trade it in for a cape made of pheonix down? Come hear how Crunch Magic used Node.js and Redis to build an online game and a state of the art recommender system that help you find games you’ll love.<br>]]></summary>
     
-      <category term="Node" scheme="http://techlahoma.github.io/okcjs-website/tags/Node/"/>
+      <category term="Node" scheme="www.okcjs.com/tags/Node/"/>
     
-      <category term="Waylon Flynn" scheme="http://techlahoma.github.io/okcjs-website/tags/Waylon-Flynn/"/>
+      <category term="Waylon Flynn" scheme="www.okcjs.com/tags/Waylon-Flynn/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: Mar 18 - Browserify]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2014/03/18/2014-3-18-mar-browserify/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2014/03/18/2014-3-18-mar-browserify/</id>
+    <link href="www.okcjs.com/2014/03/18/2014-3-18-mar-browserify/"/>
+    <id>www.okcjs.com/2014/03/18/2014-3-18-mar-browserify/</id>
     <published>2014-03-18T16:30:00.000Z</published>
-    <updated>2014-08-14T14:14:17.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2014-march-browserify.png" width="700" title="I put on my robe and wizard hat" alt="Browserify with Jordan Rousseau">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2014-march-browserify.png" width="700" title="I put on my robe and wizard hat" alt="Browserify with Jordan Rousseau">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: Feb 18, 2014 </p>
@@ -313,7 +313,7 @@
 <h2 id="About_our_Speaker">About our Speaker</h2>
 <h3 id="Jordan_Rousseau">Jordan Rousseau</h3>
 <p>Jordan is a recovering ActionScript developer who is passionate about open geo and data visualization platforms. Jordan currently works for Weather Decision Technologies where he leads a team of crazy talented JavaScript/Web developers making the world of weather more accessible using using various frameworks including but not limited to Leaflet, D3, AngularJS and node.js.projects</p>
-<img src="/okcjs-website/images/misc/jordan-gandalf.jpg">
+<img src="/images/misc/jordan-gandalf.jpg">
 
 <p><iframe width="100%" height="550" src="http://rousseau.io/browserify-okcjs/#0" frameborder="0" allowfullscreen></iframe><br><a href="http://rousseau.io/browserify-okcjs/#0" target="_blank" rel="external">See his slides!</a></p>
 <h3 id="Our_Sponsors">Our Sponsors</h3>
@@ -325,7 +325,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2014-march-browserify.png" width="700" title="I put on my robe and wizard hat" alt="Browserify with Jordan Rousseau">
+    <summary type="html"><![CDATA[<img src="/images/posters/2014-march-browserify.png" width="700" title="I put on my robe and wizard hat" alt="Browserify with Jordan Rousseau">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: Feb 18, 2014 </p>
@@ -334,21 +334,21 @@
 <h2 id="“I_put_on_my_Node_and_Wizard_Hat”">“I put on my Node and Wizard Hat”</h2>
 <p>Browserify is a development tool that allows us to write node.js-style modules that compile for use in the browser. Jordan Rousseau will give us the run down on Browserify for browser-side require() the node.js way.<br>]]></summary>
     
-      <category term="Browserify" scheme="http://techlahoma.github.io/okcjs-website/tags/Browserify/"/>
+      <category term="Browserify" scheme="www.okcjs.com/tags/Browserify/"/>
     
-      <category term="Jordan Rousseau" scheme="http://techlahoma.github.io/okcjs-website/tags/Jordan-Rousseau/"/>
+      <category term="Jordan Rousseau" scheme="www.okcjs.com/tags/Jordan-Rousseau/"/>
     
-      <category term="automation" scheme="http://techlahoma.github.io/okcjs-website/tags/automation/"/>
+      <category term="automation" scheme="www.okcjs.com/tags/automation/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: Feb 18 - Yeoman]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2014/02/18/2014-2-18-feb-yeoman/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2014/02/18/2014-2-18-feb-yeoman/</id>
+    <link href="www.okcjs.com/2014/02/18/2014-2-18-feb-yeoman/"/>
+    <id>www.okcjs.com/2014/02/18/2014-2-18-feb-yeoman/</id>
     <published>2014-02-18T17:30:00.000Z</published>
-    <updated>2014-08-14T14:06:20.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2014-feb-yeoman.jpg" height="700" title="Yo, man!" alt="Yeoman with Jesse Harlin">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2014-feb-yeoman.jpg" height="700" title="Yo, man!" alt="Yeoman with Jesse Harlin">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: Feb 18, 2014 </p>
@@ -371,7 +371,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2014-feb-yeoman.jpg" height="700" title="Yo, man!" alt="Yeoman with Jesse Harlin">
+    <summary type="html"><![CDATA[<img src="/images/posters/2014-feb-yeoman.jpg" height="700" title="Yo, man!" alt="Yeoman with Jesse Harlin">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: Feb 18, 2014 </p>
@@ -382,23 +382,23 @@
 <p>Simply put, Yeoman is a scaffolding tool, that will save you time should you adopt it. If you write JavaScript, a lot of good tooling has come along that really encourages a modern workflow. Yeoman is one of these tools. Lets check it out together on Tuesday.</p>
 ]]></summary>
     
-      <category term="Yeoman" scheme="http://techlahoma.github.io/okcjs-website/tags/Yeoman/"/>
+      <category term="Yeoman" scheme="www.okcjs.com/tags/Yeoman/"/>
     
-      <category term="Jesse Harlin" scheme="http://techlahoma.github.io/okcjs-website/tags/Jesse-Harlin/"/>
+      <category term="Jesse Harlin" scheme="www.okcjs.com/tags/Jesse-Harlin/"/>
     
-      <category term="scaffolding" scheme="http://techlahoma.github.io/okcjs-website/tags/scaffolding/"/>
+      <category term="scaffolding" scheme="www.okcjs.com/tags/scaffolding/"/>
     
-      <category term="automation" scheme="http://techlahoma.github.io/okcjs-website/tags/automation/"/>
+      <category term="automation" scheme="www.okcjs.com/tags/automation/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: Jan 21 - Lightning Talks IV]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2014/01/21/2014-1-21-jan-meeting-lightning/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2014/01/21/2014-1-21-jan-meeting-lightning/</id>
+    <link href="www.okcjs.com/2014/01/21/2014-1-21-jan-meeting-lightning/"/>
+    <id>www.okcjs.com/2014/01/21/2014-1-21-jan-meeting-lightning/</id>
     <published>2014-01-21T17:30:00.000Z</published>
-    <updated>2014-08-14T14:08:26.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2014-jan-lightning.png" height="700" title="Get it together, Raiden!!!" alt="Lightning Talks IV">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2014-jan-lightning.png" height="700" title="Get it together, Raiden!!!" alt="Lightning Talks IV">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: Dec 17, 2013 </p>
@@ -420,7 +420,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2014-jan-lightning.png" height="700" title="Get it together, Raiden!!!" alt="Lightning Talks IV">
+    <summary type="html"><![CDATA[<img src="/images/posters/2014-jan-lightning.png" height="700" title="Get it together, Raiden!!!" alt="Lightning Talks IV">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: Dec 17, 2013 </p>
@@ -430,25 +430,25 @@
 <p>Lightning Talks are a lot of fun. Its an open forum where our members can get up and talk about what they want. The talks need to be short - generally 5-10 minutes. You can cover anything that is javascript, or related to javascript. You can talk about a problem you’ve solved, a plugin you like, a cool blog post you read, something you’re working on now, or pretty much any other way you’re using javascript to achieve your goals.</p>
 <p>Since these tend to be pretty popular, we’ve started a ‘signup’ on the Google + page. By ‘signup’ I meann “post a comment in the thread”. It’s basically first come, first serve. Or FIFO. Whatever :)<br>]]></summary>
     
-      <category term="Atumn Cueller" scheme="http://techlahoma.github.io/okcjs-website/tags/Atumn-Cueller/"/>
+      <category term="Atumn Cueller" scheme="www.okcjs.com/tags/Atumn-Cueller/"/>
     
-      <category term="Karl Kirch" scheme="http://techlahoma.github.io/okcjs-website/tags/Karl-Kirch/"/>
+      <category term="Karl Kirch" scheme="www.okcjs.com/tags/Karl-Kirch/"/>
     
-      <category term="Dennis Ferron" scheme="http://techlahoma.github.io/okcjs-website/tags/Dennis-Ferron/"/>
+      <category term="Dennis Ferron" scheme="www.okcjs.com/tags/Dennis-Ferron/"/>
     
-      <category term="Jeremy Green" scheme="http://techlahoma.github.io/okcjs-website/tags/Jeremy-Green/"/>
+      <category term="Jeremy Green" scheme="www.okcjs.com/tags/Jeremy-Green/"/>
     
-      <category term="Lightning Talks" scheme="http://techlahoma.github.io/okcjs-website/categories/Lightning-Talks/"/>
+      <category term="Lightning Talks" scheme="www.okcjs.com/categories/Lightning-Talks/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: Dec 17 - Grunt.js]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2013/12/17/2013-12-17-dec-meeting-grunt/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2013/12/17/2013-12-17-dec-meeting-grunt/</id>
+    <link href="www.okcjs.com/2013/12/17/2013-12-17-dec-meeting-grunt/"/>
+    <id>www.okcjs.com/2013/12/17/2013-12-17-dec-meeting-grunt/</id>
     <published>2013-12-17T17:30:00.000Z</published>
-    <updated>2014-08-14T14:09:14.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-dec-grunt.jpg" height="700" title="GRUUUUUNT!" alt="Grunt with Josh Bavahari">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2013-dec-grunt.jpg" height="700" title="GRUUUUUNT!" alt="Grunt with Josh Bavahari">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: Dec 17, 2013 </p>
@@ -468,7 +468,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-dec-grunt.jpg" height="700" title="GRUUUUUNT!" alt="Grunt with Josh Bavahari">
+    <summary type="html"><![CDATA[<img src="/images/posters/2013-dec-grunt.jpg" height="700" title="GRUUUUUNT!" alt="Grunt with Josh Bavahari">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: Dec 17, 2013 </p>
@@ -477,19 +477,19 @@
 <h2 id="About_“Grunt-js”">About “Grunt.js”</h2>
 <p>Had a chance to check out Grunt.js yet?<br>It is awesome!<br>Its a well supported, and effective task runner in the js ecosystem. Its huge and its growing every day. There are already hundreds of plugins to pick from. You can automate anything, with little effort.<br>Automation is amazing.The less work you have to do when performing repetitive tasks like minification, compilation, unit testing, linting, etc, the easier your job becomes.  Next Tuesday,  Josh is going to show you how to achieve your goals quickly with Grunt.<br>]]></summary>
     
-      <category term="Grunt.js" scheme="http://techlahoma.github.io/okcjs-website/tags/Gruntjs/"/>
+      <category term="Grunt.js" scheme="www.okcjs.com/tags/Gruntjs/"/>
     
-      <category term="Josh Bavari" scheme="http://techlahoma.github.io/okcjs-website/tags/Josh-Bavari/"/>
+      <category term="Josh Bavari" scheme="www.okcjs.com/tags/Josh-Bavari/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: Nov 19 - Howler.js]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2013/11/19/2013-11-19-not-meeting-howlerjs/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2013/11/19/2013-11-19-not-meeting-howlerjs/</id>
+    <link href="www.okcjs.com/2013/11/19/2013-11-19-not-meeting-howlerjs/"/>
+    <id>www.okcjs.com/2013/11/19/2013-11-19-not-meeting-howlerjs/</id>
     <published>2013-11-19T17:30:00.000Z</published>
-    <updated>2014-08-14T14:10:23.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-nov-howlerjs.jpg" height="700" title="Howwwwwwwwwwwwwler!" alt="Howler with James Simpson">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2013-nov-howlerjs.jpg" height="700" title="Howwwwwwwwwwwwwler!" alt="Howler with James Simpson">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: Nov 19, 2013 </p>
@@ -510,7 +510,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-nov-howlerjs.jpg" height="700" title="Howwwwwwwwwwwwwler!" alt="Howler with James Simpson">
+    <summary type="html"><![CDATA[<img src="/images/posters/2013-nov-howlerjs.jpg" height="700" title="Howwwwwwwwwwwwwler!" alt="Howler with James Simpson">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: Nov 19, 2013 </p>
@@ -519,21 +519,21 @@
 <h2 id="“About_“Howler-js”">“About “Howler.js”</h2>
 <p>Audio sucks on the web. Thankfully, there is a great library that helps with that : Howler.js. Howler can help with a variety of web audio needs, with graceful fallbacks to HTML5 Audio. Howler.js is a library that makes playing back audio in JavaScript simpler.  It allows you to control when it starts and stops, looping, fading in and out, playback of multiple sounds at the same time, support for multiple codecs and more..<br>]]></summary>
     
-      <category term="Howler.js" scheme="http://techlahoma.github.io/okcjs-website/tags/Howlerjs/"/>
+      <category term="Howler.js" scheme="www.okcjs.com/tags/Howlerjs/"/>
     
-      <category term="James Simpson" scheme="http://techlahoma.github.io/okcjs-website/tags/James-Simpson/"/>
+      <category term="James Simpson" scheme="www.okcjs.com/tags/James-Simpson/"/>
     
-      <category term="audio" scheme="http://techlahoma.github.io/okcjs-website/tags/audio/"/>
+      <category term="audio" scheme="www.okcjs.com/tags/audio/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: Oct 22 - Phonegap]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2013/10/22/2013-10-22-oct-meeting-phonegap/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2013/10/22/2013-10-22-oct-meeting-phonegap/</id>
+    <link href="www.okcjs.com/2013/10/22/2013-10-22-oct-meeting-phonegap/"/>
+    <id>www.okcjs.com/2013/10/22/2013-10-22-oct-meeting-phonegap/</id>
     <published>2013-10-22T16:30:00.000Z</published>
-    <updated>2014-08-14T14:13:59.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-0ct-phonegap.png" height="700" title="Beats PhoneOldNavy" alt="Phonegap with Jeff French">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2013-0ct-phonegap.png" height="700" title="Beats PhoneOldNavy" alt="Phonegap with Jeff French">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: Sept 17, 2013 </p>
@@ -556,7 +556,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-0ct-phonegap.png" height="700" title="Beats PhoneOldNavy" alt="Phonegap with Jeff French">
+    <summary type="html"><![CDATA[<img src="/images/posters/2013-0ct-phonegap.png" height="700" title="Beats PhoneOldNavy" alt="Phonegap with Jeff French">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: Sept 17, 2013 </p>
@@ -566,21 +566,21 @@
 <p>Are you excited about all the mobile technologies available today but you can’t decide which language to learn? Is your company planning to build a mobile app but you can’t decide which platform to invest in first? The answer is simple: don’t choose! In this session I will show you how you can use the PhoneGap framework to build an app using just HTML, Javascript and CSS that will compile to a native app. Along the way, I’ll point out various performance tips, helper libraries and design patters to make your app experience awesome on all devices. Your app will be ready for submission to each platform’s app store and will install and run natively all from a single code base!</p>
 ]]></summary>
     
-      <category term="Phonegap" scheme="http://techlahoma.github.io/okcjs-website/tags/Phonegap/"/>
+      <category term="Phonegap" scheme="www.okcjs.com/tags/Phonegap/"/>
     
-      <category term="Jeff French" scheme="http://techlahoma.github.io/okcjs-website/tags/Jeff-French/"/>
+      <category term="Jeff French" scheme="www.okcjs.com/tags/Jeff-French/"/>
     
-      <category term="mobile" scheme="http://techlahoma.github.io/okcjs-website/tags/mobile/"/>
+      <category term="mobile" scheme="www.okcjs.com/tags/mobile/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: Sept 17 - New Rules of Javascript]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2013/09/17/2013-9-17-sept-meeting-new-rules-of-js%20copy/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2013/09/17/2013-9-17-sept-meeting-new-rules-of-js copy/</id>
+    <link href="www.okcjs.com/2013/09/17/2013-9-17-sept-meeting-new-rules-of-js%20copy/"/>
+    <id>www.okcjs.com/2013/09/17/2013-9-17-sept-meeting-new-rules-of-js copy/</id>
     <published>2013-09-17T16:30:00.000Z</published>
-    <updated>2014-08-14T14:15:15.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-sept-new-rules-of-js.jpg" height="700" title="The first rule of Javascript Club..." alt="The new Rules of Javascript with Kyle Simpson">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2013-sept-new-rules-of-js.jpg" height="700" title="The first rule of Javascript Club..." alt="The new Rules of Javascript with Kyle Simpson">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: Sept 17, 2013 </p>
@@ -605,7 +605,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-sept-new-rules-of-js.jpg" height="700" title="The first rule of Javascript Club..." alt="The new Rules of Javascript with Kyle Simpson">
+    <summary type="html"><![CDATA[<img src="/images/posters/2013-sept-new-rules-of-js.jpg" height="700" title="The first rule of Javascript Club..." alt="The new Rules of Javascript with Kyle Simpson">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: Sept 17, 2013 </p>
@@ -617,21 +617,21 @@
 <p>This talk re-visits some of the “tough parts” of the language by declaring “New Rules”</p>
 ]]></summary>
     
-      <category term="Javascript" scheme="http://techlahoma.github.io/okcjs-website/tags/Javascript/"/>
+      <category term="Javascript" scheme="www.okcjs.com/tags/Javascript/"/>
     
-      <category term="Kyle Simpson" scheme="http://techlahoma.github.io/okcjs-website/tags/Kyle-Simpson/"/>
+      <category term="Kyle Simpson" scheme="www.okcjs.com/tags/Kyle-Simpson/"/>
     
-      <category term="You Don&#39;t Know Js" scheme="http://techlahoma.github.io/okcjs-website/tags/You-Dont-Know-Js/"/>
+      <category term="You Don&#39;t Know Js" scheme="www.okcjs.com/tags/You-Dont-Know-Js/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: Aug 20 - Lightning Talks III]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2013/08/20/2013-8-20-aug-meeting-lightning-talks-III/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2013/08/20/2013-8-20-aug-meeting-lightning-talks-III/</id>
+    <link href="www.okcjs.com/2013/08/20/2013-8-20-aug-meeting-lightning-talks-III/"/>
+    <id>www.okcjs.com/2013/08/20/2013-8-20-aug-meeting-lightning-talks-III/</id>
     <published>2013-08-20T16:30:00.000Z</published>
-    <updated>2014-08-14T14:16:33.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-aug-lightning-talks-III.png" height="700" title="Javascript Kombat: ONly Friendship Fatalities allowed" alt="Lightning Talks III">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2013-aug-lightning-talks-III.png" height="700" title="Javascript Kombat: ONly Friendship Fatalities allowed" alt="Lightning Talks III">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: August 20, 2013 </p>
@@ -654,7 +654,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-aug-lightning-talks-III.png" height="700" title="Javascript Kombat: ONly Friendship Fatalities allowed" alt="Lightning Talks III">
+    <summary type="html"><![CDATA[<img src="/images/posters/2013-aug-lightning-talks-III.png" height="700" title="Javascript Kombat: ONly Friendship Fatalities allowed" alt="Lightning Talks III">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: August 20, 2013 </p>
@@ -665,33 +665,33 @@
 <p>Lightning talks are a lot of fun. Its an open forum where our members can get up and talk about what they want. The talks need to be short - generally 5-10 minutes. You can cover anything that is javascript, or related to javascript. You can talk about a problem you’ve solved, a plugin you like, a cool blog post you read, something you’re working on now, or pretty much any other way you’re using javascript to achieve your goals. </p>
 ]]></summary>
     
-      <category term="Jonathan Camenisch" scheme="http://techlahoma.github.io/okcjs-website/tags/Jonathan-Camenisch/"/>
+      <category term="Jonathan Camenisch" scheme="www.okcjs.com/tags/Jonathan-Camenisch/"/>
     
-      <category term="Jeff French" scheme="http://techlahoma.github.io/okcjs-website/tags/Jeff-French/"/>
+      <category term="Jeff French" scheme="www.okcjs.com/tags/Jeff-French/"/>
     
-      <category term="Jesse Harlin" scheme="http://techlahoma.github.io/okcjs-website/tags/Jesse-Harlin/"/>
+      <category term="Jesse Harlin" scheme="www.okcjs.com/tags/Jesse-Harlin/"/>
     
-      <category term="Ben Vantreese" scheme="http://techlahoma.github.io/okcjs-website/tags/Ben-Vantreese/"/>
+      <category term="Ben Vantreese" scheme="www.okcjs.com/tags/Ben-Vantreese/"/>
     
-      <category term="Jordan Rousseau" scheme="http://techlahoma.github.io/okcjs-website/tags/Jordan-Rousseau/"/>
+      <category term="Jordan Rousseau" scheme="www.okcjs.com/tags/Jordan-Rousseau/"/>
     
-      <category term="David Miller" scheme="http://techlahoma.github.io/okcjs-website/tags/David-Miller/"/>
+      <category term="David Miller" scheme="www.okcjs.com/tags/David-Miller/"/>
     
-      <category term="Rick Yoesting" scheme="http://techlahoma.github.io/okcjs-website/tags/Rick-Yoesting/"/>
+      <category term="Rick Yoesting" scheme="www.okcjs.com/tags/Rick-Yoesting/"/>
     
-      <category term="Karl Kirch" scheme="http://techlahoma.github.io/okcjs-website/tags/Karl-Kirch/"/>
+      <category term="Karl Kirch" scheme="www.okcjs.com/tags/Karl-Kirch/"/>
     
-      <category term="Lightning Talks" scheme="http://techlahoma.github.io/okcjs-website/categories/Lightning-Talks/"/>
+      <category term="Lightning Talks" scheme="www.okcjs.com/categories/Lightning-Talks/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: July 23 - Web applications in Firefox OS]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2013/07/23/2013-7-23-july-meeting-firefox-os/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2013/07/23/2013-7-23-july-meeting-firefox-os/</id>
+    <link href="www.okcjs.com/2013/07/23/2013-7-23-july-meeting-firefox-os/"/>
+    <id>www.okcjs.com/2013/07/23/2013-7-23-july-meeting-firefox-os/</id>
     <published>2013-07-23T16:30:00.000Z</published>
-    <updated>2014-08-14T14:17:32.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-July-FirefoxOs.png" height="700" title="FirefoxOS: Breakfast Serial" alt="Firefox OS with Yury Delendik">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2013-July-FirefoxOs.png" height="700" title="FirefoxOS: Breakfast Serial" alt="Firefox OS with Yury Delendik">
 
 
 <h2 id="This_Month">This Month</h2>
@@ -718,7 +718,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-July-FirefoxOs.png" height="700" title="FirefoxOS: Breakfast Serial" alt="Firefox OS with Yury Delendik">
+    <summary type="html"><![CDATA[<img src="/images/posters/2013-July-FirefoxOs.png" height="700" title="FirefoxOS: Breakfast Serial" alt="Firefox OS with Yury Delendik">
 
 
 <h2 id="This_Month">This Month</h2>
@@ -733,23 +733,23 @@
 <p>Let Yuri Show you how.</p>
 ]]></summary>
     
-      <category term="Firefox OS" scheme="http://techlahoma.github.io/okcjs-website/tags/Firefox-OS/"/>
+      <category term="Firefox OS" scheme="www.okcjs.com/tags/Firefox-OS/"/>
     
-      <category term="Yury Delendik" scheme="http://techlahoma.github.io/okcjs-website/tags/Yury-Delendik/"/>
+      <category term="Yury Delendik" scheme="www.okcjs.com/tags/Yury-Delendik/"/>
     
-      <category term="mobile" scheme="http://techlahoma.github.io/okcjs-website/tags/mobile/"/>
+      <category term="mobile" scheme="www.okcjs.com/tags/mobile/"/>
     
-      <category term="operating system" scheme="http://techlahoma.github.io/okcjs-website/tags/operating-system/"/>
+      <category term="operating system" scheme="www.okcjs.com/tags/operating-system/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: June 18 - Ember.js]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2013/06/18/2013-6-18-june-meeting-emberjs/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2013/06/18/2013-6-18-june-meeting-emberjs/</id>
+    <link href="www.okcjs.com/2013/06/18/2013-6-18-june-meeting-emberjs/"/>
+    <id>www.okcjs.com/2013/06/18/2013-6-18-june-meeting-emberjs/</id>
     <published>2013-06-18T17:44:00.000Z</published>
-    <updated>2014-08-14T14:18:24.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-June-Emberjs.png" height="700" title="Ember was a bright idea." alt="Ember.js with Jeremy Green">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2013-June-Emberjs.png" height="700" title="Ember was a bright idea." alt="Ember.js with Jeremy Green">
 
 
 <h2 id="This_Month">This Month</h2>
@@ -775,7 +775,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-June-Emberjs.png" height="700" title="Ember was a bright idea." alt="Ember.js with Jeremy Green">
+    <summary type="html"><![CDATA[<img src="/images/posters/2013-June-Emberjs.png" height="700" title="Ember was a bright idea." alt="Ember.js with Jeremy Green">
 
 
 <h2 id="This_Month">This Month</h2>
@@ -788,23 +788,23 @@
 <p>Now is your chance to learn, and Jeremy Green is going to be your guide on a titillating code safari deep into the trenches of Ember.</p>
 ]]></summary>
     
-      <category term="Ember.js" scheme="http://techlahoma.github.io/okcjs-website/tags/Emberjs/"/>
+      <category term="Ember.js" scheme="www.okcjs.com/tags/Emberjs/"/>
     
-      <category term="Mustache" scheme="http://techlahoma.github.io/okcjs-website/tags/Mustache/"/>
+      <category term="Mustache" scheme="www.okcjs.com/tags/Mustache/"/>
     
-      <category term="Jeremy Green" scheme="http://techlahoma.github.io/okcjs-website/tags/Jeremy-Green/"/>
+      <category term="Jeremy Green" scheme="www.okcjs.com/tags/Jeremy-Green/"/>
     
-      <category term="client frameworks" scheme="http://techlahoma.github.io/okcjs-website/tags/client-frameworks/"/>
+      <category term="client frameworks" scheme="www.okcjs.com/tags/client-frameworks/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: May 21 - IMPACTjs]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2013/05/21/2013-5-21-may-meeting-impactjs/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2013/05/21/2013-5-21-may-meeting-impactjs/</id>
+    <link href="www.okcjs.com/2013/05/21/2013-5-21-may-meeting-impactjs/"/>
+    <id>www.okcjs.com/2013/05/21/2013-5-21-may-meeting-impactjs/</id>
     <published>2013-05-21T17:44:00.000Z</published>
-    <updated>2014-08-14T14:19:26.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-may-impactjs.png" height="700" title="Featuring the debut title: Lets go to OKc.js" alt="Impact.js with Jesse Harlin">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2013-may-impactjs.png" height="700" title="Featuring the debut title: Lets go to OKc.js" alt="Impact.js with Jesse Harlin">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: April 16, 2013 </p>
@@ -831,7 +831,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-may-impactjs.png" height="700" title="Featuring the debut title: Lets go to OKc.js" alt="Impact.js with Jesse Harlin">
+    <summary type="html"><![CDATA[<img src="/images/posters/2013-may-impactjs.png" height="700" title="Featuring the debut title: Lets go to OKc.js" alt="Impact.js with Jesse Harlin">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: April 16, 2013 </p>
@@ -845,23 +845,23 @@
 <p>Don’t miss this meeting, you’re in for a javascript treat! Dominique, the developer of Impact has been so kind to give us a usergroup licence for noncommertial use of Impact. If you’ve been curious about Impact.js but haven’t had a chance to see what the fuss is about, now you can know! </p>
 ]]></summary>
     
-      <category term="Impact.js" scheme="http://techlahoma.github.io/okcjs-website/tags/Impactjs/"/>
+      <category term="Impact.js" scheme="www.okcjs.com/tags/Impactjs/"/>
     
-      <category term="html5" scheme="http://techlahoma.github.io/okcjs-website/tags/html5/"/>
+      <category term="html5" scheme="www.okcjs.com/tags/html5/"/>
     
-      <category term="games" scheme="http://techlahoma.github.io/okcjs-website/tags/games/"/>
+      <category term="games" scheme="www.okcjs.com/tags/games/"/>
     
-      <category term="Jesse Harlin" scheme="http://techlahoma.github.io/okcjs-website/tags/Jesse-Harlin/"/>
+      <category term="Jesse Harlin" scheme="www.okcjs.com/tags/Jesse-Harlin/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: April 16 - Lightning Talks II]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2013/04/16/2013-4-16-april-meeting-lightning-talks-II/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2013/04/16/2013-4-16-april-meeting-lightning-talks-II/</id>
+    <link href="www.okcjs.com/2013/04/16/2013-4-16-april-meeting-lightning-talks-II/"/>
+    <id>www.okcjs.com/2013/04/16/2013-4-16-april-meeting-lightning-talks-II/</id>
     <published>2013-04-16T17:44:00.000Z</published>
-    <updated>2014-08-14T14:20:26.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-April-lightning-Talks.jpg" height="700" title="Lightning Again. Because we want another stroke of it." alt="Lightning Talks II">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2013-April-lightning-Talks.jpg" height="700" title="Lightning Again. Because we want another stroke of it." alt="Lightning Talks II">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: April 16, 2013 </p>
@@ -880,7 +880,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-April-lightning-Talks.jpg" height="700" title="Lightning Again. Because we want another stroke of it." alt="Lightning Talks II">
+    <summary type="html"><![CDATA[<img src="/images/posters/2013-April-lightning-Talks.jpg" height="700" title="Lightning Again. Because we want another stroke of it." alt="Lightning Talks II">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: April 16, 2013 </p>
@@ -890,23 +890,23 @@
 <h2 id="“About_“Lightning_Talks”">“About “Lightning Talks”</h2>
 <p>We liked our last lightning talks so much, we want to do it again!  If you’ve never been involved in one of those before, its pretty simple: Its an open forum where our members can get up and talk about what they want. The talks need to be short - generally 5-10 minutes. You can cover anything that is javascript, or related to javascript. You can talkabout a problem you’ve solved, a plugin you like, a cool blog post you read, something you’re working on now, or pretty much any other way you’re using javascript to achieve your goals.<br>]]></summary>
     
-      <category term="Shane King" scheme="http://techlahoma.github.io/okcjs-website/tags/Shane-King/"/>
+      <category term="Shane King" scheme="www.okcjs.com/tags/Shane-King/"/>
     
-      <category term="Jesse Harlin" scheme="http://techlahoma.github.io/okcjs-website/tags/Jesse-Harlin/"/>
+      <category term="Jesse Harlin" scheme="www.okcjs.com/tags/Jesse-Harlin/"/>
     
-      <category term="Amanda Harlin" scheme="http://techlahoma.github.io/okcjs-website/tags/Amanda-Harlin/"/>
+      <category term="Amanda Harlin" scheme="www.okcjs.com/tags/Amanda-Harlin/"/>
     
-      <category term="Lightning Talks" scheme="http://techlahoma.github.io/okcjs-website/categories/Lightning-Talks/"/>
+      <category term="Lightning Talks" scheme="www.okcjs.com/categories/Lightning-Talks/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: March 26 - Overdrive Your Javascript]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2013/03/26/2013-3-26-march-meeting-overdrive-your-javascript/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2013/03/26/2013-3-26-march-meeting-overdrive-your-javascript/</id>
+    <link href="www.okcjs.com/2013/03/26/2013-3-26-march-meeting-overdrive-your-javascript/"/>
+    <id>www.okcjs.com/2013/03/26/2013-3-26-march-meeting-overdrive-your-javascript/</id>
     <published>2013-03-26T17:44:00.000Z</published>
-    <updated>2014-08-14T14:22:28.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-march-overdriveyourjavascript.jpg" height="700" title="Overdrive your javascript! Unless you are IE - then its slooow script errors all the way down." alt="Overdrive your Javascript with Ben Vantreese and Michael Sarchet">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2013-march-overdriveyourjavascript.jpg" height="700" title="Overdrive your javascript! Unless you are IE - then its slooow script errors all the way down." alt="Overdrive your Javascript with Ben Vantreese and Michael Sarchet">
 
 
 <h2 id="This_Month">This Month</h2>
@@ -932,7 +932,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-march-overdriveyourjavascript.jpg" height="700" title="Overdrive your javascript! Unless you are IE - then its slooow script errors all the way down." alt="Overdrive your Javascript with Ben Vantreese and Michael Sarchet">
+    <summary type="html"><![CDATA[<img src="/images/posters/2013-march-overdriveyourjavascript.jpg" height="700" title="Overdrive your javascript! Unless you are IE - then its slooow script errors all the way down." alt="Overdrive your Javascript with Ben Vantreese and Michael Sarchet">
 
 
 <h2 id="This_Month">This Month</h2>
@@ -946,25 +946,25 @@
 <p>Another way to drive your Javascript is to implement a library to help make autonomous characters move in a realistic manner. The general term for this is ‘steering behavior’. This can include wandering, seeking and randomness, avoidance, and any other way things ‘move’. You might need to do this if you’re implementing some advanced interactivity, building a game, or doing some creative project. Ben VanTreese is working on a library to do this in javascript, and he is going to present it at this month’s meeting.</p>
 ]]></summary>
     
-      <category term="Steering" scheme="http://techlahoma.github.io/okcjs-website/tags/Steering/"/>
+      <category term="Steering" scheme="www.okcjs.com/tags/Steering/"/>
     
-      <category term="Ben Vantreese" scheme="http://techlahoma.github.io/okcjs-website/tags/Ben-Vantreese/"/>
+      <category term="Ben Vantreese" scheme="www.okcjs.com/tags/Ben-Vantreese/"/>
     
-      <category term="Michael Sarchet" scheme="http://techlahoma.github.io/okcjs-website/tags/Michael-Sarchet/"/>
+      <category term="Michael Sarchet" scheme="www.okcjs.com/tags/Michael-Sarchet/"/>
     
-      <category term="CasperJs" scheme="http://techlahoma.github.io/okcjs-website/tags/CasperJs/"/>
+      <category term="CasperJs" scheme="www.okcjs.com/tags/CasperJs/"/>
     
-      <category term="DeSteerJs" scheme="http://techlahoma.github.io/okcjs-website/tags/DeSteerJs/"/>
+      <category term="DeSteerJs" scheme="www.okcjs.com/tags/DeSteerJs/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: February 19 - The Making Of A Javascript Game]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2013/02/19/2013-2-19-february-meeting-casinorpg/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2013/02/19/2013-2-19-february-meeting-casinorpg/</id>
+    <link href="www.okcjs.com/2013/02/19/2013-2-19-february-meeting-casinorpg/"/>
+    <id>www.okcjs.com/2013/02/19/2013-2-19-february-meeting-casinorpg/</id>
     <published>2013-02-19T18:44:00.000Z</published>
-    <updated>2014-08-14T14:23:26.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-february-casinorpg.jpg" height="700" title="Always bet on Js" alt="Casino RPG with GoldFire">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2013-february-casinorpg.jpg" height="700" title="Always bet on Js" alt="Casino RPG with GoldFire">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: February 19, 2013 </p>
@@ -987,7 +987,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-february-casinorpg.jpg" height="700" title="Always bet on Js" alt="Casino RPG with GoldFire">
+    <summary type="html"><![CDATA[<img src="/images/posters/2013-february-casinorpg.jpg" height="700" title="Always bet on Js" alt="Casino RPG with GoldFire">
 
 <h2 id="This_Month">This Month</h2>
 <p>Tuesday: February 19, 2013 </p>
@@ -999,25 +999,25 @@
 <p>Some developers from right here in Oklahoma are doing it right now. James Simpson and Luke Simpkins of Goldfire Studios have managed to create a vast, persistent virtual world that you can enjoy with javascript. The game is accessible anywhere using the latest Html 5 technologies, right in your browser, phone, tablet or any other modern device.</p>
 <p>You can’t miss this next meeting. You’ll have an opportunity to listen to some talented developers talk about their experiences in this technology stack, their experiences in the game industry, and how they have dealt with many common, and possibly not-so-common issues with client-stack game development.<br>]]></summary>
     
-      <category term="Game" scheme="http://techlahoma.github.io/okcjs-website/tags/Game/"/>
+      <category term="Game" scheme="www.okcjs.com/tags/Game/"/>
     
-      <category term="Goldfire" scheme="http://techlahoma.github.io/okcjs-website/tags/Goldfire/"/>
+      <category term="Goldfire" scheme="www.okcjs.com/tags/Goldfire/"/>
     
-      <category term="Casino RPG" scheme="http://techlahoma.github.io/okcjs-website/tags/Casino-RPG/"/>
+      <category term="Casino RPG" scheme="www.okcjs.com/tags/Casino-RPG/"/>
     
-      <category term="James Simpson" scheme="http://techlahoma.github.io/okcjs-website/tags/James-Simpson/"/>
+      <category term="James Simpson" scheme="www.okcjs.com/tags/James-Simpson/"/>
     
-      <category term="Luke Simkins" scheme="http://techlahoma.github.io/okcjs-website/tags/Luke-Simkins/"/>
+      <category term="Luke Simkins" scheme="www.okcjs.com/tags/Luke-Simkins/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Meeting: January 22 - Ecmafox]]></title>
-    <link href="http://techlahoma.github.io/okcjs-website/2013/01/22/2013-1-22-january-meeting-ecmafox/"/>
-    <id>http://techlahoma.github.io/okcjs-website/2013/01/22/2013-1-22-january-meeting-ecmafox/</id>
+    <link href="www.okcjs.com/2013/01/22/2013-1-22-january-meeting-ecmafox/"/>
+    <id>www.okcjs.com/2013/01/22/2013-1-22-january-meeting-ecmafox/</id>
     <published>2013-01-22T18:44:00.000Z</published>
-    <updated>2014-08-14T14:42:36.000Z</updated>
-    <content type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-january-22-ecmafox.jpg" height="700" title="More like Wrekt-maScriptht?" alt="Ecmascript with Yury Delendik">
+    <updated>2014-08-14T17:37:58.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2013-january-22-ecmafox.jpg" height="700" title="More like Wrekt-maScriptht?" alt="Ecmascript with Yury Delendik">
 
 
 <h2 id="This_Month">This Month</h2>
@@ -1037,7 +1037,7 @@
 <p>(405) 601-9200    </p>
 <p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
 ]]></content>
-    <summary type="html"><![CDATA[<img src="/okcjs-website/images/posters/2013-january-22-ecmafox.jpg" height="700" title="More like Wrekt-maScriptht?" alt="Ecmascript with Yury Delendik">
+    <summary type="html"><![CDATA[<img src="/images/posters/2013-january-22-ecmafox.jpg" height="700" title="More like Wrekt-maScriptht?" alt="Ecmascript with Yury Delendik">
 
 
 <h2 id="This_Month">This Month</h2>
@@ -1047,9 +1047,9 @@
 <p>We say javascript, but what we really mean is ECMAScript. If js development is important to you, then so are the latest standards rolling out. Javascript has always been constantly evolving, and now is your chance to evolve with it. Come see Yury Delendik show you the future of js, and do a barrel roll for javascript! </p>
 ]]></summary>
     
-      <category term="Ecmascript" scheme="http://techlahoma.github.io/okcjs-website/tags/Ecmascript/"/>
+      <category term="Ecmascript" scheme="www.okcjs.com/tags/Ecmascript/"/>
     
-      <category term="Yuri Delendik" scheme="http://techlahoma.github.io/okcjs-website/tags/Yuri-Delendik/"/>
+      <category term="Yuri Delendik" scheme="www.okcjs.com/tags/Yuri-Delendik/"/>
     
   </entry>
   
