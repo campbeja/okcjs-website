@@ -1305,6 +1305,16 @@ pre .javascript .function {
     color: #fff;
   }
 }
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  .header-title-graphic {
+    display: none;
+  }
+}
+@media screen and (max-width: 479px) {
+  .header-title-graphic {
+    display: none;
+  }
+}
 @media screen and (min-width: 768px) {
   #sidebar {
     display: inline;
