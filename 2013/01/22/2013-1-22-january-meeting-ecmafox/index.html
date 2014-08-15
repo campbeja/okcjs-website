@@ -283,18 +283,15 @@ We say javascript, but what we really mean is ECMAScript. If js development is i
   
 </nav>
     
-<script>
-  var disqus_shortname = 'okcjs';
-  
-  var disqus_url = 'www.okcjs.com/2013/01/22/2013-1-22-january-meeting-ecmafox/';
-  
-  (function(){
-    var dsq = document.createElement('script');
-    dsq.type = 'text/javascript';
-    dsq.async = true;
-    dsq.src = '//go.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  })();
+<script type="text/javascript">
+	var disqus_shortname = 'okcjs';
+	(function () {
+		var dsq = document.createElement('script');
+		dsq.type = 'text/javascript';
+		dsq.async = true;
+		dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
 </script>
 
 

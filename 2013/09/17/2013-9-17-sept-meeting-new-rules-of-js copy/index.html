@@ -291,18 +291,15 @@ I bet you’ve been writing JS for years and you th">
   
 </nav>
     
-<script>
-  var disqus_shortname = 'okcjs';
-  
-  var disqus_url = 'www.okcjs.com/2013/09/17/2013-9-17-sept-meeting-new-rules-of-js copy/';
-  
-  (function(){
-    var dsq = document.createElement('script');
-    dsq.type = 'text/javascript';
-    dsq.async = true;
-    dsq.src = '//go.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  })();
+<script type="text/javascript">
+	var disqus_shortname = 'okcjs';
+	(function () {
+		var dsq = document.createElement('script');
+		dsq.type = 'text/javascript';
+		dsq.async = true;
+		dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
 </script>
 
 
