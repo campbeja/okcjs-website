@@ -309,7 +309,7 @@ body {
   font-weight: bold;
 }
 #header {
-  height: 250px;
+  height: 325px;
   position: relative;
   border-bottom: 1px solid #ddd;
 }
@@ -335,13 +335,23 @@ body {
   background: -ms-linear-gradient(transparent, rgba(0,0,0,0.2));
   background: linear-gradient(transparent, rgba(0,0,0,0.2));
 }
+#banner-whizbang {
+  width: 100%;
+  height: 100%;
+}
 #header-outer {
   height: 100%;
   position: relative;
+  padding: 0;
 }
 #header-inner {
-  position: relative;
+  z-index: 100;
   overflow: hidden;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
 }
 #banner {
   position: absolute;
@@ -359,7 +369,7 @@ body {
   text-align: left;
   height: 95px;
   position: absolute;
-  top: 105px;
+  top: 95px;
   left: 0;
   margin-top: -47.5px;
 }
@@ -383,7 +393,7 @@ body {
   text-decoration: none;
   color: #fff;
   font-weight: 300;
-  text-shadow: 0 1px 4px rgba(0,0,0,0.3);
+  text-shadow: 0 1px 4px rgba(0,0,0,0.6);
 }
 #logo {
   font-size: 95px;
@@ -400,15 +410,17 @@ body {
 }
 #main-nav {
   float: left;
-  margin-left: -15px;
+  margin-left: 0;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 .nav-icon,
 .main-nav-link {
   float: left;
-  color: #fff;
-  opacity: 0.6;
+  color: #000;
+  opacity: 0.8;
   text-decoration: none;
-  text-shadow: 0 1px rgba(0,0,0,0.2);
   -webkit-transition: opacity 0.2s;
   -moz-transition: opacity 0.2s;
   -ms-transition: opacity 0.2s;
@@ -432,7 +444,9 @@ body {
 }
 .main-nav-link {
   font-weight: 300;
-  letter-spacing: 1px;
+  letter-spacing: 1;
+  background: rgba(255,255,255,0.6);
+  padding: 20px 15px;
 }
 @media screen and (max-width: 479px) {
   .main-nav-link {
@@ -453,6 +467,7 @@ body {
 #sub-nav {
   float: right;
   margin-right: -15px;
+  margin-top: 45px;
 }
 #nav-rss-link:before {
   content: "\f09e";
@@ -462,7 +477,7 @@ body {
 }
 #search-form-wrap {
   position: absolute;
-  top: 15px;
+  top: 60px;
   width: 150px;
   height: 30px;
   right: -150px;
