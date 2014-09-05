@@ -1,6 +1,10 @@
-function animateCanvas(cj, canvas) {
+function animateCanvas(cj, canvas, options) {
 
   var speed = 72;
+  var context = canvas.getContext("2d");
+
+
+
 
   function handleLoadGradient(evt) {
 
@@ -10,23 +14,24 @@ function animateCanvas(cj, canvas) {
   }
 
   function handleLoadSunMoonStars() {
-
     sunMoonStars.regY = sunMoonStars.image.height / 2;
     sunMoonStars.regX = sunMoonStars.image.width / 2;
   }
 
-  var stage = new cj.Stage(canvas)
+
+  var stage = options.stage;
 
 
 
   var skyline = new createjs.Bitmap('/js/img/okc_skyline.png');
   skyline.x = (canvas.width * 0.5) - 450;
   skyline.y = 0;
-  
-  var scale= 2
+
+  var scale = 2
   var gradientHeight = 1980 * scale;
   var start = -gradientHeight + 325,
     end = 0;
+
   var gradientImage = new Image();
   gradientImage.src = '/js/img/TimeOfDayGradient.jpg';
   gradientImage.onload = handleLoadGradient;
@@ -70,37 +75,67 @@ function animateCanvas(cj, canvas) {
 
   stage.addChild(skyline);
 
-
-
+  
+  //var btn = new Button('suckit');
+  
+  
+  //stage.addChild(btn);
+  
   function tick() {
-    stage.update()
+    stage.update();
   }
 
 
-
   cj.Ticker.addEventListener('tick', tick);
-  createjs.Ticker.setFPS(20);
+  createjs.Ticker.setFPS(15);
 }
 
 
+
 (function (cj) {
+
+
   var canvas = document.getElementById('banner-whizbang');
+
   var banner = document.getElementById('banner');
   var context = canvas.getContext('2d');
 
-  window.addEventListener('resize', resizeCanvas, false);
+
+
+  var options = {};
+
+  var stage = new cj.Stage(canvas);
+
+  options.stage = stage;
+
+
+  options.cloudGrid = (function () {
+    var w = 30,
+      h = 9,
+      row = [];
+    for (var i = 0; i < w; i++) {
+      var col = [];
+      for (var k = 0; k < h; k++) {
+        col.push(~~(Math.random() * 2))
+      }
+      row.push(col);
+    }
+    return row;
+  })();
+
 
   function resizeCanvas() {
-
-
-
     canvas.width = $(banner).width();
     canvas.height = $(banner).height();
     drawStuff();
   }
-  resizeCanvas();
 
   function drawStuff() {
-    animateCanvas(cj, canvas);
+    animateCanvas(cj, canvas, options);
   }
+
+  resizeCanvas();
+
+  window.addEventListener('resize', resizeCanvas, false);
+
 })(createjs);

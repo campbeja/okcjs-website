@@ -4,7 +4,7 @@
   <subtitle><![CDATA[The Oklahoma City Javascript Usergroup]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="www.okcjs.com/"/>
-  <updated>2014-08-19T07:27:38.404Z</updated>
+  <updated>2014-09-05T02:39:36.938Z</updated>
   <id>www.okcjs.com/</id>
   
   <author>
@@ -13,6 +13,53 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Meeting: Sept 16 - 3D in the Browser - WebGL and Three.js]]></title>
+    <link href="www.okcjs.com/2014/09/16/2014-9-16-sept-3d-in-browser/"/>
+    <id>www.okcjs.com/2014/09/16/2014-9-16-sept-3d-in-browser/</id>
+    <published>2014-09-16T16:30:00.000Z</published>
+    <updated>2014-09-05T02:39:22.000Z</updated>
+    <content type="html"><![CDATA[<img src="/images/posters/2014-sept-3D-in-browser.png" width="700" title="Purty pictures!" alt="3D in Browser with Greg Tatum">
+
+<h2 id="This_Month">This Month</h2>
+<p>Tuesday: Sept 16, 2014</p>
+<p>11:30 am</p>
+<p>@Prototek<br>401 NW 10th,<br>Oklahoma City, Oklahoma<br>73101</p>
+<h2 id="About_“3D_in_the_Browser_-_WebGL_and_Three-js”">About “3D in the Browser - WebGL and Three.js”</h2>
+<p>This talk will dive into how to leverage all of the latest open technologies to create dynamic 3d content for the web. It will cover the basics of how to use the canvas element to leverage the power of the graphics card in the browser. It will go over the basics of the WebGL specification and Three.js, the most complete 3d graphics framework. Plus the talk will challenge your imagination about what is possible with combining compelling graphics with the open and distributed framework of the web.</p>
+<a id="more"></a>
+
+<h2 id="About_our_Speaker">About our Speaker</h2>
+<h3 id="Greg_Tatum">Greg Tatum</h3>
+<p>With a background in contemporary sculpture, aquarium exhibit design, marketing, animation, and web development, Greg is all over the place. The central guiding principle behind his work is to find the middle ground between the technical and creative, and explore it and see what comes up. He is a Senior Web Developer + Digital Designer at Cubic, a Tulsa based creative branding agency.</p>
+<h3 id="Our_Sponsors">Our Sponsors</h3>
+<p>Meeting space is provided thanks to <a href="http://www.prototekokc.com" target="_blank" rel="external">Prototek</a>. These awesome folks are passionate about creating a vibrant maker space in Oklahoma City. We thank them for providing meeting space for user groups and events. Prototek is collaborating with Techlahoma to create a positive impact on our tech community, which is an epic win for everyone!</p>
+<p>Tasty lunch will be served thanks to <a href="http://techlahoma.org/" target="_blank" rel="external">Techlahoma</a>.</p>
+<h2 id="usergroup-location_=_Prototek;">usergroup.location = Prototek;</h2>
+<p><a href="http://prototekokc.com/" target="_blank" rel="external">Prototek</a> Prototek is a maker, fabrication, civic hacker and creator space located in Mid-Town Oklahoma City.</p>
+<img src="/images/sponsors/prototek.png" title="[700] [Prototek OKC]">
+
+<p>401 NW 10th St, Oklahoma City, Oklahoma 73103</p>
+<p>Get directions via <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415" target="_blank" rel="external">Google maps</a>.</p>
+]]></content>
+    <summary type="html"><![CDATA[<img src="/images/posters/2014-sept-3D-in-browser.png" width="700" title="Purty pictures!" alt="3D in Browser with Greg Tatum">
+
+<h2 id="This_Month">This Month</h2>
+<p>Tuesday: Sept 16, 2014</p>
+<p>11:30 am</p>
+<p>@Prototek<br>401 NW 10th,<br>Oklahoma City, Oklahoma<br>73101</p>
+<h2 id="About_“3D_in_the_Browser_-_WebGL_and_Three-js”">About “3D in the Browser - WebGL and Three.js”</h2>
+<p>This talk will dive into how to leverage all of the latest open technologies to create dynamic 3d content for the web. It will cover the basics of how to use the canvas element to leverage the power of the graphics card in the browser. It will go over the basics of the WebGL specification and Three.js, the most complete 3d graphics framework. Plus the talk will challenge your imagination about what is possible with combining compelling graphics with the open and distributed framework of the web.</p>
+]]></summary>
+    
+      <category term="WebGL" scheme="www.okcjs.com/tags/WebGL/"/>
+    
+      <category term="Greg Tatum" scheme="www.okcjs.com/tags/Greg-Tatum/"/>
+    
+      <category term="Three.js" scheme="www.okcjs.com/tags/Threejs/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Meeting: August 19 - Lightning Talks 6]]></title>
@@ -1008,48 +1055,6 @@
       <category term="James Simpson" scheme="www.okcjs.com/tags/James-Simpson/"/>
     
       <category term="Luke Simkins" scheme="www.okcjs.com/tags/Luke-Simkins/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Meeting: January 22 - Ecmafox]]></title>
-    <link href="www.okcjs.com/2013/01/22/2013-1-22-january-meeting-ecmafox/"/>
-    <id>www.okcjs.com/2013/01/22/2013-1-22-january-meeting-ecmafox/</id>
-    <published>2013-01-22T18:44:00.000Z</published>
-    <updated>2014-08-14T17:37:58.000Z</updated>
-    <content type="html"><![CDATA[<img src="/images/posters/2013-january-22-ecmafox.jpg" height="700" title="More like Wrekt-maScriptht?" alt="Ecmascript with Yury Delendik">
-
-
-<h2 id="This_Month">This Month</h2>
-<p>Meeting January 22, 2013 @The Exchange</p>
-<h3 id="Ecmafox-">Ecmafox.</h3>
-<p>“ All ships check in!! ….For ECMAScript” </p>
-<p>We say javascript, but what we really mean is ECMAScript. If js development is important to you, then so are the latest standards rolling out. Javascript has always been constantly evolving, and now is your chance to evolve with it. Come see Yury Delendik show you the future of js, and do a barrel roll for javascript! </p>
-<a id="more"></a>
-
-<h2 id="About_our_Speakers">About our Speakers</h2>
-<h3 id="Yury_Delendik">Yury Delendik</h3>
-<p>Yury Delendik’s first open source project was the processing.js. Since then, he is involved with the Mozilla community. He likes to implement various binary formats decoders in JavaScript and other languages. Currently, he works at Mozilla Research on the pdf.js and shumway projects</p>
-<p>Tasty lunch will be served thanks to <a href="http://www.roberthalftechnology.com/" target="_blank" rel="external">Robert Half Technologies</a>. These awesome folks are passionate about serving the Oklahoma City technology community and we thank them for their generous support. They’ve made it clear they want to see our usergroup succeed, which is an epic win for everyone!</p>
-<h2 id="usergroup-location_=_The_Exchange;">usergroup.location = The Exchange;</h2>
-<p><a href="http://www.exchangeokc.com/" target="_blank" rel="external">The Exchange</a> </p>
-<p>The Exchange<br>700 1/2 West Sheridan Avenue<br>Oklahoma City, OK 73102</p>
-<p>(405) 601-9200    </p>
-<p><a href="https://maps.google.com/maps?q=+700+West+Sheridan+Avenue+Oklahoma+City,+OK+73102&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=83.75977,57.919922&amp;hnear=700+W+Sheridan+Ave,+Oklahoma+City,+Oklahoma+73102&amp;t=m&amp;z=17" target="_blank" rel="external">Google maps link</a></p>
-]]></content>
-    <summary type="html"><![CDATA[<img src="/images/posters/2013-january-22-ecmafox.jpg" height="700" title="More like Wrekt-maScriptht?" alt="Ecmascript with Yury Delendik">
-
-
-<h2 id="This_Month">This Month</h2>
-<p>Meeting January 22, 2013 @The Exchange</p>
-<h3 id="Ecmafox-">Ecmafox.</h3>
-<p>“ All ships check in!! ….For ECMAScript” </p>
-<p>We say javascript, but what we really mean is ECMAScript. If js development is important to you, then so are the latest standards rolling out. Javascript has always been constantly evolving, and now is your chance to evolve with it. Come see Yury Delendik show you the future of js, and do a barrel roll for javascript! </p>
-]]></summary>
-    
-      <category term="Ecmascript" scheme="www.okcjs.com/tags/Ecmascript/"/>
-    
-      <category term="Yuri Delendik" scheme="www.okcjs.com/tags/Yuri-Delendik/"/>
     
   </entry>
   
