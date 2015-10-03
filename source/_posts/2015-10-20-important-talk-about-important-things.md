@@ -1,16 +1,16 @@
 layout: post
-title: "Meeting: Aug 18 - Get your MVP out with BaaS"
-date: 2015-08-18
+title: "Meeting: Oct 20 - Important Talk About Important Things"
+date: 2015-10-20
 comments: true
-tags: [Pulkit Singhal, BaaS]
+tags: [Mike Brockus]
 ---
 
-{% img /images/posters/2015-August-BaaS.png 700 "Get your MVP out with BaaS" "Get your MVP out with BaaS" %}
+{% img /images/posters/2015-October-Important-Talk.png 700 "Important Talk About Important Things" "Important Talk About Important Things" %}
 
-{% meetup_btn http://www.meetup.com/OKC-js/events/224359263/ 674 %}
+{% meetup_btn http://www.meetup.com/OKC-js/events/225379844/ 674 %}
 
 ## This Month
-Tuesday: Aug 18, 2015
+Tuesday: Oct 20, 2015
 
 11:30 am
 
@@ -20,16 +20,14 @@ Oklahoma City, Oklahoma
 73101
 
 
-## About "Get your MVP out with BaaS"
-Overview of various pros and cons for deciding if a BaaS can add value and help get your MVP out the door.
+## About "Important Talk About Important Things"
+We all want to learn how to efficiently create solutions in a reliable, secure, and professional manner. Sometimes our priorities change and what we really need to know is how to embed an easter egg in our application that changes all the font to emojis. This talk will cover mission critical things such as adding easter eggs, creating your own fonts, and text animation.
 
 ## About our Speaker
 
-### Pulkit Singhal
-
-Co-Founder & CTO of [@Fermyon](https://twitter.com/Fermyon) - a Silicon Valley startup in the retail & mobile space. We created [@ShoppinPal](https://twitter.com/ShoppinPal)!
-You can follow Pulkit at [@learnwell](https://twitter.com/learnwell)
-{% img /images/speakers/pulkitSinghal.jpeg 150 "Pulkit Singhal" %}
+### Mike Brockus
+Mike is a software engineer at Cox Communications where he enjoys being paid with extra cable channels and faster internet. When he's not spending quality time with his family or working, he enjoys making useless Android apps that have earned tens of dollars and starting a bunch of side projects that will never be finished.
+[Mike's Twitter](https://twitter.com/MikeBockus)
 
 <!-- more -->
 
